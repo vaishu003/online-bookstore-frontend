@@ -32,13 +32,16 @@ The app will run at: http://localhost:3000
 
 Project Structure:
 
+Project Structure:
+
+online-bookstore-frontend/
 ├── public/
 │   └── index.html
 ├── src/
 │   ├── components/
 │   │   ├── Header.js
+│   │   ├── Footer.js
 │   │   ├── BookCard.js
-│   │   └── Footer.js
 │   ├── pages/
 │   │   ├── HomePage.js
 │   │   ├── BookDetails.js
@@ -50,8 +53,8 @@ Project Structure:
 │   └── index.js
 ├── .gitignore
 ├── package.json
-├── README.md
-└── package-lock.json
+├── package-lock.json
+└── README.md
 
 
 Technologies Used
