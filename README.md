@@ -32,7 +32,23 @@ The app will run at: http://localhost:3000
 
 Project Structure:
 
-<pre> ```plaintext online-bookstore-frontend/ ├── public/ │ └── index.html ├── src/ │ ├── components/ │ │ ├── Header.js │ │ └── BookList.js │ ├── pages/ │ │ └── Home.js │ ├── services/ │ │ └── api.js │ ├── App.js │ ├── App.css │ ├── index.js ├── .gitignore ├── package.json └── README.md ``` </pre>
+├── public/
+│   └── index.html
+├── src/
+│   ├── components/
+│   │   ├── Header.js
+│   │   └── BookList.js
+│   ├── pages/
+│   │   └── Home.js
+│   ├── services/
+│   │   └── api.js
+│   ├── App.js
+│   ├── App.css
+│   ├── index.js
+├── .gitignore
+├── package.json
+└── README.md
+
 
 Technologies Used
 
