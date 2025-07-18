@@ -34,7 +34,6 @@ Project Structure:
 
 Project Structure:
 
-online-bookstore-frontend/
 ├── public/
 │   └── index.html
 ├── src/
