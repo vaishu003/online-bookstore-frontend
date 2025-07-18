@@ -36,13 +36,22 @@ Project Structure:
 │   └── index.html
 ├── src/
 │   ├── components/
-│   │   ├── AddBook.js
-│   │   └── BookList.js
+│   │   ├── Header.js
+│   │   ├── BookCard.js
+│   │   └── Footer.js
+│   ├── pages/
+│   │   ├── HomePage.js
+│   │   ├── BookDetails.js
+│   │   └── CartPage.js
+│   ├── services/
+│   │   └── api.js
 │   ├── App.js
-│   ├── index.js
+│   ├── App.css
+│   └── index.js
 ├── .gitignore
 ├── package.json
 ├── README.md
+└── package-lock.json
 
 
 Technologies Used
