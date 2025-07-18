@@ -32,9 +32,17 @@ The app will run at: http://localhost:3000
 
 Project Structure:
 
-Project Structure:
-
-├── public/ │ └── index.html ├── src/ │ ├── components/ │ │ ├── Header.js │ │ ├── Footer.js │ │ └── BookCard.js │ ├── pages/ │ │ ├── HomePage.js │ │ ├── BookDetails.js │ │ └── CartPage.js │ ├── services/ │ │ └── api.js │ ├── App.js │ ├── App.css │ └── index.js ├── .gitignore ├── package.json ├── package-lock.json └── README.md
+├── public/
+│   └── index.html
+├── src/
+│   ├── components/
+│   │   ├── AddBook.js
+│   │   └── BookList.js
+│   ├── App.js
+│   ├── index.js
+├── .gitignore
+├── package.json
+├── README.md
 
 Technologies Used
 
